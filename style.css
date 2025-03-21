@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 50vh;
-    background-color: orangered;
+    height: 100vh;
+    background-color: ghostwhite;
 }
 
 .section {
